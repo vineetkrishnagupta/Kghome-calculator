@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button2" type="id" />
+    <item name="textView" type="id" />
+    <item name="ansTextView" type="id" />
+    <item name="button_cut" type="id" />
+    <item name="button_modulo" type="id" />
+    <item name="button_division" type="id" />
+    <item name="button_multiplication" type="id" />
+    <item name="button_subsection" type="id" />
+</resources>
